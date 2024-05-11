@@ -1,0 +1,15 @@
+[
+    {
+        "prompt": "Flamenco Test: Compose a fiery flamenco piece with the melody line A4 Bcde | f2 ed cAFA | G4 Bcde | f2 ed cAFA |. Use a classical guitar and piano as the main instrument, and complemented by drums for rhythm. The motif should be passionate and quick, with a progression like Am-G-F-E. Set the tempo fast, with a lot of rhythmic intensity and flair.",
+        "title": "Flamenco Test",
+        "genre": "Flamenco",
+        "key": "Unspecified",
+        "chord_progression": "Am-G-F-E",
+        "instruments": "Classical guitar, drums, piano",
+        "tempo": "Fast",
+        "rhythm": "Intense, Rhythmic",
+        "emotion": "Passionate, Fiery",
+        "melody": "A4 Bcde | f2 ed cAFA | G4 Bcde | f2 ed cAFA |"
+    }
+
+]

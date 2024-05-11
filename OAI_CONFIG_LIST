@@ -1,0 +1,7 @@
+[
+    {
+        "model": "your API model, such as gpt-3.5-turbo, gpt-4",
+        "api_key": "your API key here"
+    }
+]
+
