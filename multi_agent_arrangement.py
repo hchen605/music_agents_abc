@@ -7,7 +7,7 @@ import random
 config_list = autogen.config_list_from_json(
     "OAI_CONFIG_LIST",
     filter_dict={
-         "model": ["gpt-4-1106-preview", "gpt-4-1106", "gpt-4-0314","gpt4","gpt-4-32k","gpt-3.5-turbo"],
+         "model": ["gpt-4-1106-preview", "gpt-4-1106", "gpt-4-0314","gpt-4","gpt-4-32k","gpt-3.5-turbo"],
 
     }
 )
